@@ -2,6 +2,22 @@
 
 AI-Powered Emergency Department Capacity Forecasting — an enterprise-grade healthcare analytics platform for hospitals and healthcare administrators.
 
+
+## 🖼️ Screenshots
+
+<img width="1703" height="791" alt="1" src="https://github.com/user-attachments/assets/ae97f977-858c-4c9d-9410-bd1d165c0cc1" />
+
+<br><br>
+
+<img width="1708" height="803" alt="2" src="https://github.com/user-attachments/assets/18cea838-d4d1-46b5-ad6e-c12a737b5564" />
+
+
+<br><br>
+
+<img width="1918" height="829" alt="3" src="https://github.com/user-attachments/assets/95ac55c6-77b0-45fd-a9ea-b633f1da2e24" />
+
+<br><br>
+
 ## Features
 
 - **Dashboard Overview** — KPI cards with sparklines, AI prediction center, live monitoring, risk management
